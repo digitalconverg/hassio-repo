@@ -15,7 +15,7 @@
     "armv7",
     "i386"
   ],
-  "image": "mkerix/room-assistant-{arch}",
+  "image": "legovaer/room-assistant-{arch}",
   "boot": "auto",
   "services": [
     "mqtt:want"
